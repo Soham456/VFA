@@ -39,7 +39,6 @@ export default function Home() {
           "An Illustration Artist.",
           "A Graphic Designer.",
           "A Professional Paint-Mixer.",
-          "An Asshole.",
         ],
         autoStart: true,
         loop: true,
